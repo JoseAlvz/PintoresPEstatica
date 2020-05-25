@@ -1,0 +1,14 @@
+{
+  "name": "paginadelospintores",
+  "version": "1.0.0",
+  "description": "sitio web estatico que demuestra informacion sobre 5 pintores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jose luis alvarez rios",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
